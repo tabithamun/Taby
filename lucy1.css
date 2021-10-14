@@ -1,0 +1,15 @@
+h1{
+font-family: fantasy;
+font-size: 50px;
+color:maroon;
+text-align: center;
+font-style: italic;
+font-weight: 600;
+}
+body{
+  background-color: #blue;
+  float: left;
+  padding-left: 3px;
+  display: block;
+  text-align: justify
+}
